@@ -28,7 +28,7 @@
 
 #campus{
     text-align: center;
-    color: black;
+    color: rgb(126, 116, 111);
     font-size: 1.6vw;
 }
 #todo{
@@ -38,31 +38,39 @@
     color: black;
     text-decoration: none;
 }
-
-#abrigos{
-    position: absolute;
-    top: 9vw;
-    font-size: 1.3vw;
-    color: black;
-    text-decoration: none;
+#todo:hover{
+    color: rgb(184, 169, 161);
 }
-
-#camisetas{
+#abrigos{
     position: absolute;
     top: 10vw;
     font-size: 1.3vw;
     color: black;
     text-decoration: none;
 }
-
-#pantalones{
+#abrigos:hover{
+    color: rgb(184, 169, 161);
+}
+#camisetas{
     position: absolute;
-    top: 11vw;
+    top: 14vw;
     font-size: 1.3vw;
     color: black;
     text-decoration: none;
 }
-
+#camisetas:hover{
+    color: rgb(184, 169, 161);
+}
+#pantalones{
+    position: absolute;
+    top: 12vw;
+    font-size: 1.3vw;
+    color: black;
+    text-decoration: none;
+}
+#pantalones:hover{
+    color: rgb(184, 169, 161);
+}
 #carrito{
     position: absolute;
     top: 18vw;
@@ -70,7 +78,9 @@
     color: black;
     text-decoration: none;
 }
-
+#carrito:hover{
+    color: rgb(184, 169, 161);
+}
 #cuadro{
     display: flex;
     flex-direction: row;
