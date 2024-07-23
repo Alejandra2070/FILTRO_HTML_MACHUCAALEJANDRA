@@ -1,0 +1,172 @@
+#contenedor{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+}
+#burger{
+    width: 2vw;
+}
+#check{
+    position: absolute;
+    display: none;
+}
+#check:checked ~#menu{
+    opacity: 0;
+}
+#menu{
+    background: white;
+    border: 1px solid rgb(184, 169, 161);
+    width: 18vw;
+    height: 46vw;
+    position: absolute;
+    margin-left: 0.5vw;
+}
+
+#campus{
+    text-align: center;
+    color: rgb(126, 116, 111);
+    font-size: 1.6vw;
+}
+#todo{
+    position: absolute;
+    top: 8vw;
+    font-size: 1.3vw;
+    color: black;
+    text-decoration: none;
+}
+#todo:hover{
+    color: rgb(184, 169, 161);
+}
+#abrigos{
+    position: absolute;
+    top: 10vw;
+    font-size: 1.3vw;
+    color: black;
+    text-decoration: none;
+}
+#abrigos:hover{
+    color: rgb(184, 169, 161);
+}
+#camisetas{
+    position: absolute;
+    top: 14vw;
+    font-size: 1.3vw;
+    color: black;
+    text-decoration: none;
+}
+#camisetas:hover{
+    color: rgb(184, 169, 161);
+}
+#pantalones{
+    position: absolute;
+    top: 12vw;
+    font-size: 1.3vw;
+    color: black;
+    text-decoration: none;
+}
+#pantalones:hover{
+    color: rgb(184, 169, 161);
+}
+#carrito{
+    position: absolute;
+    top: 18vw;
+    font-size: 1.3vw;
+    color: black;
+    text-decoration: none;
+}
+
+#cuadro{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2vw;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5vw;
+    margin-left: 30vw;
+    width: 60vw;
+    height: 42vw;
+    background: rgb(184, 169, 161);
+    border-radius: 2vw;
+}
+
+#productos{
+    color: black;
+    font-size: 1.5vw;
+}
+
+#cuadrito1{
+    width: 12vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#abrigo1{
+    width: 9vw;
+}
+#cAbrigo1{
+    margin-left: 0.2vw;
+    border-radius: 1vw;
+    width: 11.5vw;
+    height: 4vw;
+    border: 2px solid rgb(184, 169, 161);
+    font-size: 0.7vw;
+}
+#precio{
+    margin-left: -4vw;
+}
+#agregar{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(184, 169, 161);
+    margin-top: -1.8vw;
+    margin-left: 0.2vw;
+    width: 4vw;
+    height: 1vw;
+    border-radius: 0.3vw;
+}
+#cuadrito2{
+    width: 12vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#abrigo2{
+    width: 7.9vw;
+}
+#cuadrito3{
+    width: 12vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#camiseta1{
+    width: 8.8vw;
+}
+#cuadrito4{
+    width: 12vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#camiseta2{
+    width: 10vw;
+}
+#cuadrito5{
+    width: 12vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#pant1{
+    width: 10vw;
+}
