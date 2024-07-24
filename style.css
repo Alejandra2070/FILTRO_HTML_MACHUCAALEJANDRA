@@ -6,6 +6,23 @@
     height: 100vh;
     background: white;
 }
+#elements{
+    width: 1.7vw;
+    margin-top: 3vw;
+}
+#a{
+    width: 1.7vw;
+}
+#pants{
+    width: 1.7vw;
+}
+#shirt{
+    width: 1.7vw;
+}
+#s{
+    width: 1.7vw;
+    margin-top: 6vw;
+}
 #burger{
     width: 2vw;
 }
@@ -19,7 +36,6 @@
 }
 #menu{
     background: white;
-    border: 1px solid rgb(184, 169, 161);
     width: 18vw;
     height: 46vw;
     position: absolute;
@@ -29,13 +45,15 @@
 #campus{
     text-align: center;
     color: rgb(126, 116, 111);
-    font-size: 1.6vw;
+    font-size: 1.8vw;
 }
 #todo{
     position: absolute;
     top: 8vw;
-    font-size: 1.3vw;
+    width: 15vw;
+    font-size: 1.5vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
 #todo:hover{
@@ -44,8 +62,9 @@
 #abrigos{
     position: absolute;
     top: 10vw;
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
 #abrigos:hover{
@@ -54,8 +73,9 @@
 #camisetas{
     position: absolute;
     top: 14vw;
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
 #camisetas:hover{
@@ -64,8 +84,9 @@
 #pantalones{
     position: absolute;
     top: 12vw;
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
 #pantalones:hover{
@@ -73,9 +94,10 @@
 }
 #carrito{
     position: absolute;
-    top: 18vw;
-    font-size: 1.3vw;
+    top: 22.5vw;
+    font-size: 1.5vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
 #carrito:hover{
@@ -89,30 +111,34 @@
     align-items: center;
     justify-content: center;
     margin-top: 1.5vw;
-    margin-left: 30vw;
-    width: 60vw;
+    margin-left: 22vw;
+    width: 70vw;
     height: 42vw;
     background: rgb(184, 169, 161);
     border-radius: 2vw;
+    overflow: auto;
 }
 
 #productos{
-    color: black;
-    font-size: 1.5vw;
+    color: white;
+    margin-top: -147vw;
+    margin-left: 6vw;
+    font-size: 2vw;
 }
 
 #cuadrito1{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 5vw;
 }
 #abrigo1{
     width: 8vw;
 }
 #cAbrigo1{
-    margin-left: 0.2vw;
+    margin-left: 1.2vw;
     border-radius: 1vw;
     width: 11.5vw;
     height: 4vw;
@@ -123,83 +149,158 @@
     margin-left: -4vw;
 }
 #agregar{
-    position: absolute;
+    display: flex;
+    justify-content: center;
     text-decoration: none;
     color: black;
     background-color: rgb(184, 169, 161);
     margin-top: -1.8vw;
-    margin-left: 0.2vw;
+    margin-left: 6vw;
     width: 4vw;
     height: 1vw;
     border-radius: 0.3vw;
 }
 #cuadrito2{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 5vw;
 }
 #abrigo2{
     width: 8.8vw;
 }
 #cuadrito3{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 5vw;
 }
 #camiseta1{
     width: 8.8vw;
 }
 #cuadrito4{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 5vw;
 }
 #camiseta2{
     width: 7.8vw;
 }
 #cuadrito5{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
 }
 #pant1{
-    width: 5.8vw;
+    width: 8.6vw;
 }
 #cuadrito6{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
 }
 #pant2{
-    width: 8vw;
+    width: 7.7vw;
 }
 #cuadrito7{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
-    text-align: center;
+    text-align: center;;
 }
 #pant3{
-    width: 5.6vw;
+    width: 8.6vw;
 }
 #cuadrito8{
-    width: 12vw;
+    width: 14vw;
     height: 16vw;
     background: white;
     border-radius: 1.2vw;
     text-align: center;
 }
 #pant4{
+    width: 10.6vw;
+}
+#abrigo3{
+    width: 8vw;
+}
+#cuadrito8{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#cuadrito9{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#cuadrito10{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#pant5{
     width: 5.6vw;
+}
+#pant6{
+    width: 5.6vw;
+}
+#pant7{
+    width: 10.6vw;
+}
+#pant8{
+    width: 7.6vw;
+}
+#cuadrito11{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#cuadrito12{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#cuadrito13{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#cuadrito14{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
+}
+#cuadrito15{
+    width: 14vw;
+    height: 16vw;
+    background: white;
+    border-radius: 1.2vw;
+    text-align: center;
 }

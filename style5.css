@@ -6,8 +6,31 @@
     height: 100vh;
     background: white;
 }
+#elements{
+    width: 1.7vw;
+    margin-top: 3vw;
+}
+#a{
+    width: 1.7vw;
+}
+#pants{
+    width: 1.7vw;
+}
+#shirt{
+    width: 1.7vw;
+}
+#s{
+    width: 1.7vw;
+    margin-top: 6vw;
+}
 #burger{
     width: 2vw;
+}
+#productos{
+    color: white;
+    margin-top: -147vw;
+    margin-left: 6vw;
+    font-size: 2vw;
 }
 #check{
     position: absolute;
@@ -35,41 +58,56 @@
     top: 8vw;
     font-size: 1.3vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
-
+#todo:hover{
+    color: rgb(184, 169, 161);
+}
 #abrigos{
-    position: absolute;
-    top: 9vw;
-    font-size: 1.3vw;
-    color: black;
-    text-decoration: none;
-}
-
-#camisetas{
     position: absolute;
     top: 10vw;
     font-size: 1.3vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
-
+#abrigos:hover{
+    color: rgb(184, 169, 161);
+}
+#camisetas{
+    position: absolute;
+    top: 14vw;
+    font-size: 1.3vw;
+    color: black;
+    margin-left: 2.5vw;
+    text-decoration: none;
+}
+#camisetas:hover{
+    color: rgb(184, 169, 161);
+}
 #pantalones{
     position: absolute;
-    top: 11vw;
+    top: 12vw;
     font-size: 1.3vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
-
+#pantalones:hover{
+    color: rgb(184, 169, 161);
+}
 #carrito{
     position: absolute;
-    top: 18vw;
+    top: 22vw;
     font-size: 1.3vw;
     color: black;
+    margin-left: 2.5vw;
     text-decoration: none;
 }
-
+#carrito:hover{
+    color: rgb(184, 169, 161);
+}
 #cuadro{
     display: flex;
     flex-direction: row;
@@ -125,7 +163,15 @@
     margin-left: -0.2vw;
     font-size: 1vw;
 }
-#basurita{
+#basurita1{
+    width: 2vw;
+    margin-top: -14vw;
+}
+#basurita2{
+    width: 2vw;
+    margin-top: -14vw;
+}
+#basurita3{
     width: 2vw;
     margin-top: -14vw;
 }
