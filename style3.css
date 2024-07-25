@@ -131,6 +131,7 @@
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 3vw;
 }
 #abrigo1{
     width: 9vw;
@@ -163,6 +164,7 @@
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 3vw;
 }
 #abrigo2{
     width: 7.9vw;
@@ -173,6 +175,7 @@
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 3vw;
 }
 #camiseta1{
     width: 8.8vw;
@@ -183,6 +186,7 @@
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: 3vw;
 }
 #camiseta2{
     width: 10vw;
@@ -193,7 +197,20 @@
     background: white;
     border-radius: 1.2vw;
     text-align: center;
+    margin-top: -3vw;
 }
 #pant1{
     width: 10vw;
+}
+#camper{
+    text-align: center;
+    font-size: 1.2vw;
+    color: black;
+    margin-top: 18vw;
+}
+#productos{
+    color: white;
+    margin-top: -60vw;
+    margin-left: -12vw;
+    font-size: 2vw;
 }

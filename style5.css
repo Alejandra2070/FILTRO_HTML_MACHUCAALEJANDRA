@@ -190,3 +190,19 @@
     border-radius: 1.2vw;
     text-align: center;
 }
+#vaciar{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2vw;
+    background: white;
+    border-radius: 0.5vw;
+    top: 1vw;
+    right: 21.5vw;
+}
+#camper{
+    text-align: center;
+    font-size: 1.2vw;
+    color: black;
+    margin-top: 18vw;
+}
