@@ -35,6 +35,7 @@ Este aplicativo consta de varias secciones las cuales son:
 1. Clonar el repositorio cargado en GitHub.
 
 ![](image-1.png)
+
 2. Abrir en la nube uno de los archivos index.html en un navegador web.
 ![](<Captura de pantalla 2024-08-03 142847.png>)
 # Desarrollado por:
