@@ -32,11 +32,17 @@ Este aplicativo consta de varias secciones las cuales son:
 - Se crearon menús desplegables.
 
 # Instrucciones
-1. Clonar el repositorio cargado en GitHub.
+1. Copiar el enlace del repositorio.
+
+![](image-2.png)
+
+2. Clonar el repositorio cargado en GitHub.
 
 ![](image-1.png)
 
-2. Abrir en la nube uno de los archivos index.html en un navegador web.
+3. Abrir en la nube uno de los archivos index.html en un navegador web.
+
 ![](<Captura de pantalla 2024-08-03 142847.png>)
+
 # Desarrollado por:
-El proyecto fue desarrollado por Jesús Leonardo Bustamante Ramírez y Alejandra Machuca Molina estudiantes de CampusLands como trabajo de proyecto de filtro de los módulos Html y CSS.
+El proyecto fue desarrollado por Alejandra Machuca Molina estudiante de CampusLands como trabajo de filtro de los módulos Html y CSS.
