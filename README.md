@@ -2,10 +2,12 @@
 Se realizó la maquetación del filtro asignado en clase.
 
 # Descripción
-La página web consta de dos secciones importantes las cuales son:
 
-- Realizar licitaciones públicas y privadas de varios nichos de negocio.
-- Hace entrega formal del primer flujo de entrada para la parte administrativa.
+Este aplicativo consta de varias secciones las cuales son:
+
+- >Una página donde podrás encontrar todos los productos.
+- >Tres páginas más que están divididas en: Abrigos, Pantalones y Camisetas.
+- >Una última página donde encuentras el carrito de compras.
 # Tecnologías utilizadas
 - >HTML5
 - >CSS
@@ -13,7 +15,7 @@ La página web consta de dos secciones importantes las cuales son:
 
 ![](image.png)
 
->Aquí podrás observar el código y lo utilizado para llevar a cabo la maquetación del filtro. Como podrás observar tenemos una carpeta que son: Añadir, Ayuda, Cerrar Sesión, Eliminar, Indicadores, Intro, Perfil y Reportes las cuales contienen un archivo [index.html], [style.css] también podrás observar un [readme.md], siguiente a esto tenemos las carpetas de imagenes y font las cuales contienes las imágenes y tipos de letra.
+>Como podrás observar tenemos una carpeta de imágenes, varios archivos [index.html], [style.css] y un archivo [readme.md] que fueron utilizados para la realización del proyecto conteniendo el código, estilos y las imágenes.
 
 # Características
 | Nombre | Descripción |
